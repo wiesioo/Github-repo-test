@@ -2,11 +2,12 @@
   margin: 0;
   padding: 0;
 }
-<<<<<<< HEAD
 
 body {
   background-color: bisque;
 }
-=======
->>>>>>> 9dd903aae20a891a083f6aee29bdd76a843cb9dc
+
+li {
+  list-style: none;
+}
 /*# sourceMappingURL=style.css.map */
